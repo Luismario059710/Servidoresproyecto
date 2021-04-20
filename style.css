@@ -1,0 +1,41 @@
+:root {
+    --dark: #16191c;
+    --dark: #1e16;
+    --light: #ffffff;
+
+}
+
+:root {
+    display:block;
+    height:30px;
+    width:400px;
+  }
+
+  *{
+    font-family: Arial;
+  }
+
+  h1 {
+      text-align: center;
+      color: rgb(66, 182, 182);
+  }
+
+  body {
+    background-color: gray
+  }
+
+  img.pequeña{
+    width: 20px; height: 20px;
+    align-items: flex-start;
+  }
+  
+  a {
+      color: cyan;
+      text-align: center;
+  }
+
+  h2{
+      color: rgb(66, 182, 182);
+      text-align: center;
+    }
+  
